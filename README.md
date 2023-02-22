@@ -20,7 +20,7 @@ HTML5 trabaja de la mano con muchas otras herramientas para crear páginas web q
 
 En este proyecto me enfoqué en construir la interfaz de usuario de una calculadora. Contiene las siguientes elementos:
 
-* Label: que representa una etiqueta para un elemento en una interfaz de usuario.
+*Label: que representa una etiqueta para un elemento en una interfaz de usuario.
 
 *Función: una sección de un programa que calcula un valor de manera independiente al resto del programa, en concreto para este proyecto es la función sumar la que nos ayuda a obtener el resultado. 
 
