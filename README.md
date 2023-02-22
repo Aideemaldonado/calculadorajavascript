@@ -14,7 +14,9 @@ Calculadora que da la suma de dos números con HTML5 y JavaScript.
 
 ## 1. Intro
 
-HTML5 trabaja de la mano con muchas otras herramientas para crear páginas web que usamos completas y que cubren alguna necesidad💻⚡. Para cada cosa a realizar, existe una herramienta que nos ayuda a optimizar el tiempo y los resultados🤯. En este proyecto, con los conocimientos de HTML y JavaScript realicé una calculadora que toma los dos números que provee el usuario y obtiene el resultado de la suma de ambos 8⃣➕7⃣. 
+HTML5 trabaja de la mano con muchas otras herramientas para crear páginas web que usamos completas y que cubren alguna necesidad💻⚡. 
+Para cada cosa a realizar, existe una herramienta que nos ayuda a optimizar el tiempo y los resultados🤯
+En este proyecto, con los conocimientos de HTML y JavaScript realicé una calculadora que toma los dos números que provee el usuario y obtiene el resultado de la suma de ambos 8⃣➕7⃣. 
 
 ## 2. Qué construí
 
